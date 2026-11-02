@@ -1,0 +1,10 @@
+{
+  "description": "A creative workspace for game designers and developers to turn imported assets into customizable, previewable, and reusable game interaction skills.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
